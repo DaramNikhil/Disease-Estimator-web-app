@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: human-disease-prediction
+Version: 0.0.0
+Summary: human disease prediction project
+Author: Nikhil Daram
+Author-email: nikhildaram51@gmail.com
+Classifier: programming languages::python3
+Requires-Dist: pandas
+Requires-Dist: numpy
