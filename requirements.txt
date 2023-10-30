@@ -1,4 +1,5 @@
-pandas
 numpy
-scikit-learn
--e .
+pandas
+scikit_learn
+setuptools
+streamlit
