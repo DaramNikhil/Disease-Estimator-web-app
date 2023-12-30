@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">
 <br>DISEASE-ESTIMATOR-WEB-APP</h1>
-<h3>◦ Developed with the software and tools below.</h3>
 
 ## 📖 Table of Contents
 - [⚙️ Modules](#modules)
