@@ -73,22 +73,6 @@ python main.py
 pytest
 ```
 
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/DaramNikhil/Disease-Estimator-web-app/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/DaramNikhil/Disease-Estimator-web-app/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/DaramNikhil/Disease-Estimator-web-app/issues)**: Submit bugs found or log feature requests for DARAMNIKHIL.
-
-#### *Contributing Guidelines*
-
-<details closed>
-<summary>Click to expand</summary>
-
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
    ```sh
