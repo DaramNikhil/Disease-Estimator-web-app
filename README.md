@@ -2,7 +2,8 @@
 <h1 align="center">
 <br>DISEASE-ESTIMATOR-WEB-APP</h1>
 
-##click here to see web app
+click here to see web app
+
 https://heart-attack-risk-predict.onrender.com
 ## 📖 Table of Contents
 - [⚙️ Modules](#modules)
