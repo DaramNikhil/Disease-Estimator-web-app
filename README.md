@@ -4,7 +4,7 @@
 
 click here to see web app
 
-https://heart-attack-risk-predict.onrender.com
+https://disease-estimator.onrender.com
 
 
 ## 📖 Table of Contents
